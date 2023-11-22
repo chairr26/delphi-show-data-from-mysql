@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/11/20 09:32:52.000.708,=d:\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/11/21 09:33:49.000.617,=d:\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/11/21 09:34:30.000.771,d:\Documents\RAD Studio\Projects\dbconn_form\mainform.pas=d:\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/11/21 09:34:30.000.771,d:\Documents\RAD Studio\Projects\dbconn_form\mainform.dfm=d:\Documents\RAD Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/11/21 09:34:51.000.120,=d:\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/11/21 09:36:08.000.528,d:\Documents\RAD Studio\Projects\dbconn_form\datamodule.pas=d:\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/11/21 09:36:08.000.528,d:\Documents\RAD Studio\Projects\dbconn_form\datamodule.dfm=d:\Documents\RAD Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/11/21 11:36:46.000.709,d:\Documents\RAD Studio\Projects\dbconn_form\Project2.dproj=d:\Documents\RAD Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

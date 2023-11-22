@@ -1,0 +1,29 @@
+object dm: Tdm
+  OldCreateOrder = False
+  Height = 348
+  Width = 611
+  object FDConn: TFDConnection
+    Params.Strings = (
+      'Database=test'
+      'User_Name=umang'
+      'Password=um4n9'
+      'DriverID=MySQL')
+    Left = 64
+    Top = 48
+  end
+  object FDPhysMySQLDriverLink1: TFDPhysMySQLDriverLink
+    VendorLib = 'd:\Documents\RAD Studio\Projects\dbconn_form\libmySQL.dll'
+    Left = 176
+    Top = 48
+  end
+  object FDQuery1: TFDQuery
+    Connection = FDConn
+    Left = 288
+    Top = 48
+  end
+  object FDGUIxWaitCursor1: TFDGUIxWaitCursor
+    Provider = 'Forms'
+    Left = 384
+    Top = 48
+  end
+end
